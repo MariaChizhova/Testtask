@@ -1,11 +1,11 @@
-## Test task for jetbrains internship
+## Test task for JetBrains internship
 
-## Описание
+## Description
 
-Поддерживаемые возможности:
+### Available options:
 
-* Кнопка`Take picture` - открытие камеры и съемка изображения.
+* The button`Take picture` - open camera and take pictures.
 
-*  Кнопка `Edit` - изменение шаблона именования изображения.
+* The button`Edit` - changing template of the name of taking images 
 
-* `Total number of taken pictures` - общее количество кадров, сделанных с данным названием шаблона.
+* Total number of taken pictures with current name template
